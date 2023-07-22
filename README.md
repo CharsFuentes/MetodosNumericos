@@ -1,2 +1,2 @@
 # MetodosNumericos
-Pruebas
+Todo tipo de Ejercicios realizados manualmente y ejecutados sin error alguno
